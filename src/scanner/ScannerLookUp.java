@@ -6,8 +6,10 @@ public class ScannerLookUp {
 	public void scanHelper()
 	{
 		// For reading integer
+		@SuppressWarnings("unused")
 		int n= scan.nextInt();
 		
+		@SuppressWarnings("unused")
 		// For reading a single string word
 		String temp=scan.next();	
 		
